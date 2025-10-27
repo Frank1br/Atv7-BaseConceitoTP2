@@ -1,0 +1,16 @@
+[ {
+  "id" : "1",
+  "nome" : "Cordas Solez",
+  "preco" : 65.5,
+  "quantidadeEstoque" : 60
+}, {
+  "id" : "2",
+  "nome" : "Cordas Solez 0.11 Guitarra",
+  "preco" : 70.0,
+  "quantidadeEstoque" : 21
+}, {
+  "id" : "3",
+  "nome" : "Cordas Solez 0.10 Violão",
+  "preco" : 63.3,
+  "quantidadeEstoque" : 18
+} ]
