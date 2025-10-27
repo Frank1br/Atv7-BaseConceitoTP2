@@ -502,4 +502,4 @@ O sistema atende completamente aos requisitos propostos e representa uma base s�
 
 **Desenvolvido por:** Frank Augusto Neri de Oliveira  
 **FATEC Praia Grande - DSM**  
-**Técnicas de Programação 2 - 2024**
+**Técnicas de Programação 2 - 2025.2**
