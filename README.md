@@ -6,7 +6,7 @@
 **Curso:** Desenvolvimento de Software Multiplataforma  
 **Instituição:** FATEC Praia Grande  
 **Disciplina:** Técnicas de Programação 2  
-**Data:** Outubro de 2024
+**Data:** Outubro de 2025
 
 ---
 
